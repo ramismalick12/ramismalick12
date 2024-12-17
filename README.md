@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ramis Malick</h1>
 <h3 align="center">A highly motivated team player passionate about data analytics.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="390" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/ramismalick/project-page?authuser=1](https://sites.google.com/view/ramismalick/project-page?authuser=1)
 
