@@ -1,3 +1,4 @@
+![logo](https://github.com/ramismalick12/ramismalick12/blob/main/Blue%20and%20White%20Modern%20Business%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ramis Malick</h1>
 <h3 align="center">A highly motivated team player passionate about data analytics.</h3>
 
